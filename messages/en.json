@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "Iván · Attractor — Engineering Physics × AI Infrastructure",
+    "description": "Iván's interactive portfolio: AI infrastructure developer and Engineering Physics student. Chaos, code and self-hosted systems."
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "stack": "Stack",
+    "terminal": "Terminal",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "chaotic system · cursor-sensitive",
+    "greeting": "Hi, I'm Iván Darío",
+    "role": "Engineering Physics, AI Developer — Colombia",
+    "tagline": "AI infrastructure developer, self-hosted systems and tools for setup control. Physics, quantum computing, chaos and code.",
+    "location": "Colombia",
+    "cta": "View projects",
+    "butterfly": "Butterfly effect",
+    "butterflyHint": "perturb the initial condition and watch the chaos diverge",
+    "scroll": "scroll"
+  },
+  "about": {
+    "title": "About",
+    "p1": "AI infrastructure developer and Engineering Physics student, from Colombia.",
+    "p2": "I work on AI infrastructure for marketplaces: LLM proxies, multi-tenant RAG and automations. Increasingly deep into Rust and self-hosted systems.",
+    "p3": "Free software and Linux enthusiast who wants full control over his setup. I believe in building your own tools rather than depending on closed SaaS."
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "each bar is an energy level of the system",
+    "hint": "hover to excite the particle"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "hand-picked from my GitHub",
+    "viewOn": "View on GitHub",
+    "stars": "stars",
+    "live": "live",
+    "source": "source"
+  },
+  "stack": {
+    "title": "Stack",
+    "subtitle": "tools I work with every day"
+  },
+  "terminal": {
+    "title": "Nerd stuff",
+    "subtitle": "Arch Linux (btw) · Hyprland · Neovim · tmux",
+    "prompt": "ivan@portfolio:~$",
+    "placeholder": "type a command… (help)",
+    "hint": "Try: help, whoami, ls, cat skills, neofetch, sudo",
+    "neofetch": {
+      "role": "Engineering Physics × AI Infrastructure",
+      "os": "OS",
+      "wm": "WM",
+      "shell": "Shell",
+      "editor": "Editor",
+      "theme": "Theme",
+      "stack": "Stack",
+      "rubik": "Rubik's Cubes"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "shall we build something unpredictable?",
+    "email": "Email",
+    "github": "GitHub",
+    "copy": "copy",
+    "copied": "copied!"
+  },
+  "footer": {
+    "built": "Built with Next.js, React Three Fiber and too much coffee",
+    "rights": "All rights reserved"
+  },
+  "toggle": {
+    "language": "Language",
+    "entropy": "Entropy",
+    "entropyHint": "randomize the palette"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "Iván · Atractor — Ingeniería Física × Infraestructura IA",
+    "description": "Portfolio interactivo de Iván: desarrollador de infraestructura de IA y estudiante de Ingeniería Física. Caos, código y sistemas autoalojados."
+  },
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "stack": "Stack",
+    "terminal": "Terminal",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "badge": "sistema caótico · sensible al cursor",
+    "greeting": "Hola, soy Iván Darío",
+    "role": "Ingeniería Física, IA Developer — Colombia",
+    "tagline": "Desarrollador de infraestructura IA, sistemas autoalojados y herramientas para control del setup. Física, computación cuántica, caos y código.",
+    "location": "Colombia",
+    "cta": "Ver proyectos",
+    "butterfly": "Efecto mariposa",
+    "butterflyHint": "perturba la condición inicial y observa divergir el caos",
+    "scroll": "desliza"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "p1": "Desarrollador e infraestructura de IA, estudiante de Ingeniería Física, de Colombia.",
+    "p2": "Trabajo en infraestructura de IA para marketplaces: proxies LLM, RAG multi-tenant y automatizaciones. Cada vez más metido en Rust y en sistemas autoalojados.",
+    "p3": "Fan del software libre, Linux y de tener control total sobre mi setup. Creo en construir mis propias herramientas antes que depender de SaaS cerrado."
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "cada barra es un nivel de energía del sistema",
+    "hint": "pasa el cursor para excitar la partícula"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "seleccionados a mano desde mi GitHub",
+    "viewOn": "Ver en GitHub",
+    "stars": "estrellas",
+    "live": "en vivo",
+    "source": "código"
+  },
+  "stack": {
+    "title": "Stack",
+    "subtitle": "herramientas con las que trabajo a diario"
+  },
+  "terminal": {
+    "title": "Nerd stuff",
+    "subtitle": "Arch Linux (btw) · Hyprland · Neovim · tmux",
+    "prompt": "ivan@portfolio:~$",
+    "placeholder": "escribe un comando… (help)",
+    "hint": "Prueba: help, whoami, ls, cat skills, neofetch, sudo",
+    "neofetch": {
+      "role": "Ingeniería Física × Infraestructura IA",
+      "os": "SO",
+      "wm": "WM",
+      "shell": "Shell",
+      "editor": "Editor",
+      "theme": "Tema",
+      "stack": "Stack",
+      "rubik": "Cubos Rubik"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿construimos algo que no se pueda predecir?",
+    "email": "Correo",
+    "github": "GitHub",
+    "copy": "copiar",
+    "copied": "¡copiado!"
+  },
+  "footer": {
+    "built": "Hecho con Next.js, React Three Fiber y demasiado café",
+    "rights": "Todos los derechos reservados"
+  },
+  "toggle": {
+    "language": "Idioma",
+    "entropy": "Entropía",
+    "entropyHint": "randomiza la paleta"
+  }
+}
