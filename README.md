@@ -1,12 +1,9 @@
-# Atractor — Portfolio interactivo
-
-Portfolio tipo CV de **Iván** (Ingeniería Física × Infraestructura IA) con estética de laboratorio de física y terminal. El fondo es un sistema caótico en WebGL: el **atractor de Lorenz** (la mariposa del caos) reacciona al cursor, junto a una cinta de Möbius, una esfera de Bloch y un campo de partículas.
+# Atractor lorentz- Portfolio interactivo
 
 ## Características
 
 - **Atractor de Lorenz** que sigue y se perturba con el mouse + botón "Efecto mariposa".
 - **Secuencia por scroll**: la mariposa aparece en el hero, la **esfera de Bloch** en Skills y la **cinta de Möbius** en Stack/Terminal (cross-fade por ventanas de scroll).
-- **Función de onda interactiva**: al pasar el cursor sobre la tarjeta cuántica, el vector de Bloch salta de |0⟩ a +X y se revela `|ψ⟩ = 1/√2 (|φ₁⟩ + |φ₂⟩)` con θ=π/2, φ=0, a=b=1/√2.
 - **Campo de partículas** con repulsión al cursor y estela de partícula.
 - **Scroll = energía**: la animación se acelera según el scroll.
 - **Terminal interactiva**: `help`, `whoami`, `ls`, `cat skills`, `neofetch`, `butterfly`, `sudo` (easter egg).
